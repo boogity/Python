@@ -1,2 +1,0 @@
-# Python 
-random python biz 
